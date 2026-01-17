@@ -4,7 +4,6 @@
 🎯 Overview
 This project implements a custom neural network from scratch (no TensorFlow, no PyTorch, no pretrained models) to predict house prices based on various features. The implementation focuses on preventing overfitting through advanced regularization techniques and scientific experimentation.
 Key Highlights
-
 ✅ 100% Custom Implementation - Built using only NumPy
 ✅ No Pretrained Models - Everything coded from scratch
 ✅ Anti-Overfitting Focus - Early stopping, dropout, L2 regularization
