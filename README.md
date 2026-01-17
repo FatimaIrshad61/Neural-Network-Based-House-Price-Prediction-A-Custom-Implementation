@@ -16,6 +16,7 @@ Key Highlights
 ✅ Scientific Approach - 6 different architectures tested
 
 ✅ Excellent Generalization - Train-Val gap < 0.05
+
 🌍 SDG Alignment
 SDG 11: Sustainable Cities and Communities
 This project contributes to making cities inclusive, safe, resilient, and sustainable through:
