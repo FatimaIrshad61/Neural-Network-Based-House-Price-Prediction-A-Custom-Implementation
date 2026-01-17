@@ -10,6 +10,7 @@ Key Highlights
 ✅ No Pretrained Models - Everything coded from scratch
 
 ✅ Anti-Overfitting Focus - Early stopping, dropout, L2 regularization
+
 ✅ Manifold Learning - PCA and t-SNE for data exploration
 ✅ Scientific Approach - 6 different architectures tested
 ✅ Excellent Generalization - Train-Val gap < 0.05
