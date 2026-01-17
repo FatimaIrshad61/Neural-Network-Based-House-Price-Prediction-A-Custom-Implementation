@@ -14,6 +14,7 @@ Key Highlights
 ✅ Manifold Learning - PCA and t-SNE for data exploration
 
 ✅ Scientific Approach - 6 different architectures tested
+
 ✅ Excellent Generalization - Train-Val gap < 0.05
 🌍 SDG Alignment
 SDG 11: Sustainable Cities and Communities
