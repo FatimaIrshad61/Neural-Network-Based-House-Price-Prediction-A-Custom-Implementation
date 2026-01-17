@@ -135,4 +135,13 @@ Key Achievements
 ✅ Manifold Analysis: 6 components explain 95% variance
 
 Comparative Analysis
-ModelR²RMSE ($)GapStatusBalanced (Best)0.868$30,1500.017🏆 WinnerWide Shallow0.863$31,2000.023✅ GoodConservative0.851$32,8000.012✅ SafeModerate Depth0.859$31,5000.041⚠️ Slight overfitMomentum0.854$32,1000.028❌ Adam betterAggressive Reg0.842$33,9000.009❌ Too restrictive
+
+ModelR²RMSE ($)GapStatusBalanced (Best)0.868$30,1500.017🏆 Winner
+
+Wide Shallow0.863$31,2000.023✅GoodConservative0.851$32,8000.012✅ Safe
+
+Moderate Depth0.859$31,5000.041⚠️ Slight overfit
+
+Momentum0.854$32,1000.028❌ Adam better
+
+Aggressive Reg0.842$33,9000.009❌ Too restrictive
